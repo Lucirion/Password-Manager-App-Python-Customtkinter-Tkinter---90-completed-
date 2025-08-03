@@ -2,7 +2,7 @@
 
 **Status:** ~90% Complete • No longer under active development
 
-A secure, vault-based password manager built with Python, Tkinter, and CustomTkinter, designed for cross-platform usability and clarity. This project focuses on clean architecture, modularity, and maintainable UX patterns. While development has ceased, the codebase remains a useful reference for GUI state management, persistent storage integration, and incremental feature design.
+A secure, vault-based password manager built with Python, Tkinter, and CustomTkinter, designed for cross-platform usability and clarity. This project focuses on clean architecture, modularity, and maintainable UX patterns. My first attempt at building something like this. While development has ceased, the codebase remains a useful reference for GUI state management, persistent storage integration, and incremental feature design. However, the code is not very clean and the file structure suffers the same.
 
 ## Features
 
