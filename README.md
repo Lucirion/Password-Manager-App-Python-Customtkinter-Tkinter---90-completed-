@@ -29,5 +29,5 @@ In the near future I will dedicate effort into building a new and more proper Pa
 
 MIT
 
-<img width="596" height="576" alt="image" src="https://github.com/user-attachments/assets/cd18e54b-4946-40b8-b699-3f3070e5fe1f" />
+<img width="594" height="564" alt="image" src="https://github.com/user-attachments/assets/fa7e54b2-c358-4827-943a-26ec8fc92b24" />
 <img width="402" height="603" alt="image" src="https://github.com/user-attachments/assets/3bf709b3-33f8-4bfe-9774-85927f87e801" />
