@@ -6,4 +6,6 @@ config/
 !config/user_config.json
 .DS_Store
 storage/basic_vault.data
+config/basic_vault.data
+storage/vault.data
 *.log
