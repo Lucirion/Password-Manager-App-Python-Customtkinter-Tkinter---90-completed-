@@ -1,5 +1,9 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
 config/
 !config/user_config.json
+.DS_Store
+storage/basic_vault.data
+*.log
